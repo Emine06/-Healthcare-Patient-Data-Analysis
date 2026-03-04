@@ -91,7 +91,7 @@ Bu nedenle model %44 accuracy verdi. **Gerçek hasta verisinde** feature'lar ara
 ## 🚀 Nasıl Çalıştırılır?
 
 1. [Kaggle Dataset](https://www.kaggle.com/datasets/prasad22/healthcare-dataset) sayfasından veriyi indir
-2. Notebook'ları sırayla çalıştır
+2. Notebook çalıştır
 3. Kaggle ortamında çalıştırıyorsan path `/kaggle/input/healthcare-dataset/healthcare_dataset.csv`
 
 ---
