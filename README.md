@@ -82,8 +82,8 @@ Bu nedenle model %44 accuracy verdi. **Gerçek hasta verisinde** feature'lar ara
 ## 📁 Dosya Yapısı
 
 ```
-├── healthcare_analysis.ipynb     # Tüm proje tek notebook içinde
-└── README.md                     # Proje açıklaması
+├── healthcare-patient-data-analysis.ipynb     # Tüm proje tek notebook içinde
+└── README.md                                  # Proje açıklaması
 ```
 
 ---
